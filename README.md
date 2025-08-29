@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Hi, I'm Ikgopoleng Mophuting  
+## 👋 Hi, I'm Ikgopoleng Mophuting  
 
 💻 **Full Stack Developer | ALX Software Engineering & Data Science Fellow | Lifelong Learner**  
 
