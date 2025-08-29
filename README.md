@@ -68,9 +68,10 @@ A full-stack application replicating core Airbnb features for learning and pract
 ---
 
 ## 🌍 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ikgopoleng-mophuting/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ikgopoleng-mophuting)  
 - 🐦 [X (Twitter)](https://x.com/Ikgopol21165401)
-- 🌐 [Portfolio Website]- (https://ikgopolengmophuting-branding.netlify.app/)  
+- 🌐 [Portfolio Website]-(https://ikgopolengmophuting-branding.netlify.app/)
+
 
 ---
 
